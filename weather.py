@@ -40,15 +40,23 @@ VENUE_COORDS = {
     "Worcester": {"lat": 52.1886, "lon": -2.2274, "country": "UK", "tz": "Europe/London"},
     "Yarmouth": {"lat": 52.6263, "lon": 1.7338, "country": "UK", "tz": "Europe/London"},
 
-    # USA Racetracks (7 venues)
+    # USA Racetracks (16 venues)
+    "Aqueduct": {"lat": 40.6733, "lon": -73.8348, "country": "USA", "tz": "America/New_York"},
     "Belmont": {"lat": 40.6723, "lon": -73.8308, "country": "USA", "tz": "America/New_York"},
+    "Belmont At The Big A": {"lat": 40.6733, "lon": -73.8348, "country": "USA", "tz": "America/New_York"},  # Temporary Belmont at Aqueduct
     "Canterbury": {"lat": 44.7907, "lon": -93.4828, "country": "USA", "tz": "America/Chicago"},
-    "Churchill": {"lat": 38.2048, "lon": -85.7702, "country": "USA", "tz": "America/New_York"},
+    "Churchill": {"lat": 38.2048, "lon": -85.7702, "country": "USA", "tz": "America/Kentucky"},
+    "Del Mar (US)": {"lat": 32.9803, "lon": -117.2577, "country": "USA", "tz": "America/Los_Angeles"},
+    "Fair Grounds": {"lat": 29.9953, "lon": -90.0989, "country": "USA", "tz": "America/Chicago"},
     "Gulfstream": {"lat": 25.9898, "lon": -80.1373, "country": "USA", "tz": "America/New_York"},
-    "Horseshoe": {"lat": 39.5893, "lon": -85.8245, "country": "USA", "tz": "America/New_York"},
-    "Keeneland": {"lat": 38.0403, "lon": -84.5909, "country": "USA", "tz": "America/New_York"},
+    "Horseshoe": {"lat": 39.5893, "lon": -85.8245, "country": "USA", "tz": "America/Indiana/Indianapolis"},
+    "Keeneland": {"lat": 38.0403, "lon": -84.5909, "country": "USA", "tz": "America/Kentucky"},
     "Laurel": {"lat": 39.1043, "lon": -76.8303, "country": "USA", "tz": "America/New_York"},
+    "Oaklawn": {"lat": 34.5101, "lon": -93.0586, "country": "USA", "tz": "America/Chicago"},
+    "Pimlico": {"lat": 39.3719, "lon": -76.6659, "country": "USA", "tz": "America/New_York"},
     "Santa": {"lat": 34.1395, "lon": -118.0377, "country": "USA", "tz": "America/Los_Angeles"},
+    "Saratoga": {"lat": 43.0751, "lon": -73.7840, "country": "USA", "tz": "America/New_York"},
+    "Tampa": {"lat": 28.0435, "lon": -82.6699, "country": "USA", "tz": "America/New_York"},
 
     # Canada Racetracks (1 venue)
     "Woodbine": {"lat": 43.7075, "lon": -79.6012, "country": "CAN", "tz": "America/Toronto"},
